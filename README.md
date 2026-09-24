@@ -1,4 +1,4 @@
-# qvac-offline-translate
+# offline-translate
 
 A tiny CLI that translates text **entirely on your own device** using
 [Tether's QVAC SDK](https://github.com/tetherto/qvac) (`@qvac/sdk`). There's
